@@ -1,4 +1,4 @@
-Quick personal website made using:  
+Quick personal website made using this tutorial and template:  
 
 https://astrosites.github.io/tutorial/
 
